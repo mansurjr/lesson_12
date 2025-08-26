@@ -8,9 +8,7 @@ import "@fontsource-variable/roboto";
 const App = () => {
   return (
     <>
-      <Main />
-      <Footer />
-      <Container>
+        <Container>
         <UserApp />
       </Container>
     </>
